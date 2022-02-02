@@ -1,5 +1,5 @@
 # The Soteria Client
-A Client Side Programm to control Soterias behaviour on your Discord Server and to protect yourself against potential Tokengrabbersoftware or similar.
+A Client Side Program to control Soterias behaviour on your Discord Server and to protect yourself against potential Tokengrabbersoftware or similar.
 
 ## Features
 - Protecting your Discord Client from Modifications through a Tokengrabber
