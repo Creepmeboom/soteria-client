@@ -43,7 +43,7 @@ A Bot for Discord in Python, hosted in the PrivateCraft-Network
 - Logging Messages, when they get deleted (optionally posting their content to their original place)
 - Logging commands sent to Soteria, including Origin, Author and Accesslevel (won't work cross-server)
 
-### Community Features
+### (Cross-)Community Features
 
 - Broadcast Messages from a Source Textchannel to Destination Textchannels on other Servers
 - Ban people from one server and sync their banlist with other Servers
